@@ -1,7 +1,7 @@
 # PythonEnvironment
 Creating Python virtual environment
 
-python -m venv 'environmentname'
+python -m venv environmentname
   
 e.g., python -m venv myenvironement
   
