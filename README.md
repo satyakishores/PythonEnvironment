@@ -1,8 +1,9 @@
 # PythonEnvironment
 Creating Python virtual environment
 
-python3 -m venv <environment name>
-
+python -m venv <environment name>
+e.g., python -m venv myenvironement
+  
 This will create an environment with <environment name>(environment name of your choice) and this folder can be moved to whereever you want.
 
 To activate the environment:
